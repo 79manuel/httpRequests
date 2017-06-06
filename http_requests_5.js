@@ -28,4 +28,3 @@ console.log(html);
 }
 
 getHTML (requestOptions, printHTML);
-
